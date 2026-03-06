@@ -1,0 +1,29 @@
+# Day 2 – Java Control Statements
+
+Control statements are used to control the flow of execution in a Java program.
+
+## Types of Control Statements
+
+1. Decision Making Statements
+   - if
+   - if-else
+   - switch
+
+2. Looping Statements
+   - for loop
+   - while loop
+   - do-while loop
+
+3. Jump Statements
+   - break
+   - continue
+   - return
+
+## If Statement
+The if statement is used to execute a block of code only if a condition is true.
+
+## Switch Statement
+The switch statement is used when multiple conditions depend on a single variable.
+
+## Loops
+Loops are used to execute a block of code repeatedly until a condition becomes false.
